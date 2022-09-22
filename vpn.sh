@@ -143,7 +143,7 @@ systemctl start openvpn
 
 #Zip config ovpn
 cd /home/vps/public_html
-zip Openvpn-Config.zip *.ovpn
+zip all.zip *.ovpn
 cd
 
 # Delete script
