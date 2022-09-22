@@ -319,7 +319,7 @@ wget -O xp-ssl "https://raw.githubusercontent.com/pixiqdarkit/ssh-only/main/xp-s
 wget -O xp-hour "https://raw.githubusercontent.com/pixiqdarkit/ssh-only/main/xp-hour.sh"
 
 # Untuk Panel ssh
-wget -O addAccount "https://gitlab.com/wid09/ssh-only/-/raw/main/addAccount.sh" && chmod +x addAccount
+wget -O addAccount "https://raw.githubusercontent.com/pixiqdarkit/ssh-only/main/addAccount.sh" && chmod +x addAccount
 
 chmod +x add-host
 chmod +x menu
